@@ -3,6 +3,6 @@
 
 Aqui irei compartilhar projetos do nível básico ao avançado, como forma de mostrar o meu processo de aprendizagem na linguagem. 
 
-Todos os arquivos começam com um enunciado do problema a ser resolvido. Em seguida utilizo o método dos 5Q's onde aprendi neste (curso de lógica de programação)[https://www.youtube.com/watch?v=iF2MdbrTiBM&t=7987s].
+Todos os arquivos começam com um enunciado do problema a ser resolvido. Em seguida utilizo o método dos 5Q's onde aprendi neste [curso de lógica de programação](https://www.youtube.com/watch?v=iF2MdbrTiBM&t=7987s) para entender melhor o problema em pequenos *steps*.
 
 Sintam-se a vontade para realizar forks, issues ou pull requests. Ajudas são sempre bem-vindas aqui. 😊
